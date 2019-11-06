@@ -3,10 +3,10 @@ package com.itheima.domain;
 /**
  * @Description:
  * @Author: liaoyike
- * @Created Date: 2019/11/6 14:49
+ * @Created Date: 2019/11/6 14:54
  * @LastModifyDate:
  * @LastModifyBy:
  * @Version:
  */
-public class ZhuXian {
+public class ZhiXian {
 }
