@@ -10,9 +10,9 @@ import org.junit.Test;
  * @LastModifyBy:
  * @Version:
  */
-public class ZhuXian {
+public class Fenzhi {
     @Test
     public void test(){
-        System.out.println("这是一个主线");
+        System.out.println("这是一个分支");
     }
 }

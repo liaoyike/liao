@@ -9,5 +9,5 @@ package com.itheima.domain;
  * @Version:
  */
 public class Member {
-    
+
 }
