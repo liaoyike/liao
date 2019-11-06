@@ -1,5 +1,7 @@
 package com.itheima.domain;
 
+import org.junit.Test;
+
 /**
  * @Description:
  * @Author: liaoyike
@@ -9,4 +11,8 @@ package com.itheima.domain;
  * @Version:
  */
 public class ZhiXian {
+    @Test
+    public void test(){
+        System.out.println("这是一个分支");
+    }
 }
